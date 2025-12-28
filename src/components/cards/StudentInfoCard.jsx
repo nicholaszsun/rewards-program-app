@@ -11,7 +11,7 @@ const StudentInfoCard = ({ studentInfo }) => {
       <p className="level-title__description">
         Students progress through the GROWN standards, with each level building
         strength, control, and confidence, and earn a colored wristband upon
-        completion to signify their achievement
+        completion to signify their achievements.
       </p>
     </div>
   );
