@@ -1,18 +1,16 @@
 import studentList from "../data/studentlist.json";
 import StudentInfoCard from "../components/cards/StudentInfoCard.jsx";
-import AppNavBar from "../components/AppNavBar.jsx";
-import "./ProfilePage.css";
 
-const ProfilePage = () => {
-  const loggedInUserId = 2;
+//Working on in the future not done yet
+const AdminPage = () => {
+  const loggedInUserId = 4;
   const student = studentList.find((s) => s.id === loggedInUserId);
   console.log("ProfilePage student:", student);
   return (
-    <div className="profile-page">
-      <AppNavBar />
+    <div>
       <StudentInfoCard studentInfo={student} />
     </div>
   );
 };
 
-export default ProfilePage;
+export default AdminPage;
