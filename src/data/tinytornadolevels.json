@@ -1,5 +1,5 @@
-{
-  "g": {
+[
+  {
     "title": "Level 1",
     "description": "Students can follow instructions and do skills with guidance.",
     "skills": [
@@ -10,5 +10,62 @@
       "Cross Stance",
       "Empty Stance"
     ]
+  },
+  {
+    "title": "Level 2",
+    "description": "Students can add stability, strength to skills.",
+    "skills": [
+      "Middle Splits",
+      "Bridge",
+      "All 5 Stances",
+      "Fist/ Hook/ Palm Strike",
+      "Front Kick",
+      "Outside Kick",
+      "Inside Kick"
+    ]
+  }, 
+   {
+    "title": "Level 3",
+    "description": "Students improve stability, strength, and consistency in skills.",
+    "skills": [
+      "Middle/ Side Splits",
+      "Bridge",
+      "All 5 Stances",
+      "Fist/ Hook/ Palm Strike",
+      "3 Basic Kicks",
+      "Front Roll",
+      "Back Roll", 
+      "5 Stance Half Form"
+    ]
+  }, 
+   {
+    "title": "Level 4",
+    "description": "Students apply skills independently with technical proficiency.",
+    "skills": [
+      "Middle/ Side Splits",
+      "Bridge",
+      "All 5 Stances",
+      "Fist/ Hook/ Palm Strike",
+      "3 Basic Walking Kicks",
+      "Front/ Back Roll",
+      "Hand Stand Assisted", 
+      "5 Stance Full Form"
+    ]
+  }, 
+   {
+    "title": "Level 5",
+    "description": "Students perform skills to all GROWN standards.",
+    "skills": [
+      "Middle/ Side Splits",
+      "Bridge",
+      "All 5 Stances",
+      "Fist/ Hook/ Palm Strike",
+      "3 Basic Walking Kicks",
+      "Front/ Back Roll",
+      "Hand Stand Assisted", 
+      "Cartwheels",
+      "5 Stance Full Form"
+    ]
   }
-}
+
+]
