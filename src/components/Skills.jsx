@@ -6,5 +6,7 @@ const Skills = ({skill}) => {
             <div className ="skill-card--status">Status 00/00/00</div>
         </div>
     )
+        
+        
 }
 export default Skills;

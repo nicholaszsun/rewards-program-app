@@ -1,7 +1,7 @@
 [
-  { "id": 1, "name": "Nicholas Sun", "level": 3, "isadmin": true },
+  { "id": 1, "name": "Nicholas Sun", "level": 1, "isadmin": true },
   { "id": 2, "name": "Brian Wang", "level": 2, "isadmin": true },
-  { "id": 3, "name": "Natalie Sun", "level": 4, "isadmin": false },
-  { "id": 4, "name": "Anna Lynmch", "level": 5, "isadmin": false },
+  { "id": 3, "name": "Natalie Sun", "level": 3, "isadmin": false },
+  { "id": 4, "name": "Anna Lynmch", "level": 4, "isadmin": false },
   { "id": 5, "name": "Hannah Ho", "level": 5, "isadmin": false }
 ]

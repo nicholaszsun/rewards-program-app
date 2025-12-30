@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Level 1",
+    "title": "Level 1 - G",
     "description": "Students can follow instructions and do skills with guidance.",
     "skills": [
       "Middle Splits",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "title": "Level 2",
+    "title": "Level 2 - GR",
     "description": "Students can add stability, strength to skills.",
     "skills": [
       "Middle Splits",
@@ -28,7 +28,7 @@
   }, 
    {
     "id": 3,
-    "title": "Level 3",
+    "title": "Level 3 - GRO",
     "description": "Students improve stability, strength, and consistency in skills.",
     "skills": [
       "Middle/ Side Splits",
@@ -43,7 +43,7 @@
   }, 
    {
     "id": 4,
-    "title": "Level 4",
+    "title": "Level 4 - GROW",
     "description": "Students apply skills independently with technical proficiency.",
     "skills": [
       "Middle/ Side Splits",
@@ -58,7 +58,7 @@
   }, 
    {
     "id": 5,
-    "title": "Level 5",
+    "title": "Level 5 - GROWN",
     "description": "Students perform skills to all GROWN standards.",
     "skills": [
       "Middle/ Side Splits",

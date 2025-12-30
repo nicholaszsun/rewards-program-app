@@ -1,0 +1,35 @@
+.skill-card__container{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: solid white 1px;
+}
+
+.skill-card__title{
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+    
+}
+
+.skill-card__description{
+    font-size: .875rem;
+}
+
+.skill-card__page-break{
+border-top: 2px dotted;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.skill-card__skill__requirement-title{
+    margin: 0;
+    margin-bottom: .75rem;
+    font-weight: bold;
+}
+
+.skill-card__list-container{
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+}
