@@ -1,0 +1,15 @@
+.skill-card{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    padding: 1rem;
+    border: solid white 1px;
+}
+
+.skill-card__skill-name{
+    font-size: .875rem;
+}
+
+.skill-card--status{
+    font-size: .688rem;
+}
